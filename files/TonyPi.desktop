@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=TonyPi SOIN 430
+Comment=Assistant robotique pédagogique
+Exec=bash /home/pi/TonyPi/TonyPi.sh
+Icon=utilities-terminal
+Terminal=true
+Categories=Education;
+StartupNotify=true
